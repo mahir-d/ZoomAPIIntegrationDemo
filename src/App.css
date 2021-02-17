@@ -37,6 +37,11 @@
   }
 }
 #zmmtg-root{
-  height: 0% !important;
-  width: 0m !important;
+  height: 0 !important;
+  width: 0 !important;
 }
+.meeting-client-inner > * {
+ height: 50% !important;
+ width: 50% !important;
+}
+

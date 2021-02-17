@@ -3,7 +3,7 @@ const zoom = require('@zoomus/websdk')
 zoom.ZoomMtg.setZoomJSLib('https://source.zoom.us/1.9.0/lib', '/av');
 zoom.ZoomMtg.preLoadWasm()
 zoom.ZoomMtg.prepareJssdk()
-const signature = "MHV4VHBUU0VSbm1BZkxlOE41YS1ldy45NjQ1OTAzNDI2NC4xNjEzNTA5MDE4ODQ4LjAuRHFMdVVmdFpFMDkxOGRRNmhFbTMwSzRaRURtUHA2dk5icThSZS9valltYz0="
+const signature = "MHV4VHBUU0VSbm1BZkxlOE41YS1ldy45Nzk2Njk4NjUxMS4xNjEzNTgzNTEzMDE3LjAuMWZwMjNJVDF3VG9rNFZkaWN4T1FTNW54VEROUVRpOGd1ZnBoZms4UjVZbz0="
 
 export default class Zoom extends Component {
 
@@ -13,7 +13,7 @@ export default class Zoom extends Component {
         
         const meetConfig = {
             apiKey: '0uxTpTSERnmAfLe8N5a-ew',
-            meetingNumber: 96459034264,
+            meetingNumber: 97966986511,
             leaveUrl: 'http://192.168.1.39:3000',
             userName: 'mahir Dhall',
             userEmail: 'mahirdhall4@gmail.com',
