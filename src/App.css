@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+#zmmtg-root{
+  height: 0% !important;
+  width: 0m !important;
+}
